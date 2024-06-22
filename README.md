@@ -45,12 +45,12 @@ American Institute of Aeronautics and Astronautics [https://doi.org/10.2514/1.J0
 2013
 
 ## Publications Simulations 
-1. Volumetric Mesh Embedidng for physic based simulations [Spheres Falling](./ball.mp4) [Multiple Objects](./collection.mp4)  
+1. Volumetric Mesh Embedidng for physic based simulations [Spheres Falling](./ball.mp4) , [Multiple Objects](./collection.mp4)  
 1. Elastic volumetric mesh collisions with rigid objects [Armadillo](./armaldo.mp4)
 2. Elastic volumetric mesh self collision via constraints [Body Twist](./twist.mp4)
-3. Multiple Surface Tension fluid simulations [Dropplets](./Contact_angles.mp4)  [Slidding Dropplets](./ramp.mp4)  [Falling Dropplets](./Multi_drop_kst.mp4)     
+3. Multiple Surface Tension fluid simulations [Dropplets](./Contact_angles.mp4) , [Slidding Dropplets](./ramp.mp4) , [Falling Dropplets](./Multi_drop_kst.mp4)     
 5. Multi-phase material multi-physics simulation [Candle](./candle_01_sticky_take3.mp4)
 6. Temperature Driven Marangoni Effect [Marangoni](./Marangoni.mp4)
-7. Incompressible fluid with rigid objects [Dam Break](./dambreak_128_final.mp4) [Bunny ](./bunny_drown_0_156.mp4)
+7. Incompressible fluid with rigid objects [Dam Break](./dambreak_128_final.mp4) , [Bunny ](./bunny_drown_0_156.mp4)
 8. Narrowband for multi-method incompressible flow simulations [Narrow Band](./narrow_band_2d.mp4)
-9. Incompressible smoke simulations [Colliding Spheres](./spheres256_4M.mp4) [Smoke pass a sphere](./smoke_past_sphere_N64/mp4) [2D Method Comparasion](./smoke_256_flow_2D.mp4) [Vortex Shredding 2D](./vortex_2d.mp4)
+9. Incompressible smoke simulations [Colliding Spheres](./spheres256_4M.mp4) , [Smoke pass a sphere](./smoke_past_sphere_N64/mp4) , [2D Method Comparasion](./smoke_256_flow_2D.mp4) , [Vortex Shredding 2D](./vortex_2d.mp4)
