@@ -9,6 +9,9 @@
 # Work Experience 
 
 # Publications 
+Test video: [armaldo](./armaldo.mp4)
+
+
 
 1. "A Robust Grid-Based Meshing Algorithm for Embedding Self-Intersecting Surfaces"
 ,Steven W. Gagniere, Yushan Han, Yizhou Chen, David A. B. Hyde, Alan
