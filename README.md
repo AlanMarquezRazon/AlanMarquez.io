@@ -1,3 +1,6 @@
+# Aerospace Engineer 
+Interests 
+
 # Education 
 ## University of California los Angeles
 **Phd** Aerospace Engineering **2021**
@@ -7,6 +10,8 @@
 **Bachelors of Science** Aerospace Engineering **2013**
 
 # Work Experience 
+
+## Teaching Experience 
 
 # Publications 
 1. "A Robust Grid-Based Meshing Algorithm for Embedding Self-Intersecting Surfaces"
