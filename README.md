@@ -45,7 +45,7 @@ American Institute of Aeronautics and Astronautics [https://doi.org/10.2514/1.J0
 2013
 
 ## Publications Simulations 
-
+1. Volumetric Mesh Embedidng for physic based simulations [Spheres Falling](./ball.mp4) [Multiple Objects](./collection.mp4)  
 1. Elastic volumetric mesh collisions with rigid objects [Armadillo](./armaldo.mp4)
 2. Elastic volumetric mesh self collision via constraints [Body Twist](./twist.mp4)
 3. Surface tension contact angles [Dropplets](./Contact_angles.mp4)
