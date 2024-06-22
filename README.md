@@ -44,6 +44,6 @@ Rauno Cavallaro, Alan Márquez Razón. AIAA journal Vol 51 Issue 1 pages 161-177
 American Institute of Aeronautics and Astronautics [https://doi.org/10.2514/1.J051700](https://doi.org/10.2514/1.J051700)
 2013
 
-##Publications Simulations 
+## Publications Simulations 
 
 2.[armadillo](./armaldo.mp4)
