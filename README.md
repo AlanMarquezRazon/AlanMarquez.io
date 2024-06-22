@@ -1,8 +1,8 @@
 # Education 
-University of California los Angeles
+## University of California los Angeles
 Aerospace Engineering, PhD 2021
 Aerospace Engineering, Masters of Science 2015
-San Diego State University
+## San Diego State University
 Aerospace Engineering, Bachelors of Science 2013
 
 # Work Experience 
@@ -17,13 +17,13 @@ Issue 1 https://doi.org/10.1111/cgf.14986 2023
 Volumetric Elastic Contact” Alan Marquez Razon, Yizhou Chen, Yushan Han, Steven
 Gagniere, Michael Tupek, Joseph Teran. Proceedings of the ACM on Computer
 Graphics and Interactive Techniques Vol 6 Issue 3 Pages 1-25 ACM
-https://doi.org/10.1145/3606924 2023
+[https://doi.org/10.1145/3606924](https://doi.org/10.1145/3606924) 2023
 3. "A Momentum-Conserving Implicit Material Point Method for Surface Energies with
 Spatial Gradients", J Chen, V Kala, A Marquez-Razon, E Gueidon, DAB Hyde, J Teran.
 ACM Transactions on Graphics (TOG) Vol 40 Issue 4 Pages 1-16 ACM
 https://doi.org/10.1145/3450626.3459874 2021
 4. “Particle Grid Hybrid Methods for Multi-Material Dynamics” Marquez Razon, Alan.
-University of California, Los Angeles ProQuest Dissertations Publishing,
+University of California, Los Angeles ProQuest Dissertations Publishing, 
 https://escholarship.org/uc/item/4ct3d43f 2021 
 6. "An implicit updated lagrangian formulation for liquids with large surface energy", David
 Hyde, Steven Gagniere, Alan Marquez-Razon, Joseph Teran ACM Transactions on
