@@ -54,3 +54,4 @@ American Institute of Aeronautics and Astronautics [https://doi.org/10.2514/1.J0
 7. Incompressible fluid with rigid objects [Dam Break](./dambreak_128_final.mp4) , [Bunny ](./bunny_drown_0_156.mp4)
 8. Narrowband for multi-method incompressible flow simulations [Narrow Band](./narrow_band_2d.mp4)
 9. Incompressible smoke simulations [Colliding Spheres](./spheres256_4M.mp4) , [Smoke pass a sphere](./smoke_past_sphere_N64/mp4) , [2D Method Comparasion](./smoke_256_flow_2D.mp4) , [Vortex Shredding 2D](./vortex_2d.mp4)
+10. Strong Surface Tension Forces simulations [Falling Ellipse](./ellipse_implicit_N64_kst_1.mp4) , [Falling Dropplet](./plataformas.mp4) , [Zero gravity surface tension](./oscu_new_render.mp4)
