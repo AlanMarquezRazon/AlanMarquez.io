@@ -14,10 +14,10 @@ Interests
 # Work Experience 
 
 # Teaching Experience 
-* UCLA Teaching Assistant under Dr. Toohey Damian,“Flight Mechanics” **2015 - 2019**
-* UCLA Teaching Assistant under Dr. Oddvar Bendiksen,“Aeroelastic Effects on Structures” **2016**
-* UCLA Teaching Assistant under Dr. Oddvar Bendiksen, “Preliminary Aircraft Designs” **2015**
-* SDSU Teaching Assistant under Dr. Luciano Demasi, “Statics” **2012**
+* **UCLA** Teaching Assistant under Dr. Toohey Damian, **“Flight Mechanics”** **2015 - 2019**
+* **UCLA** Teaching Assistant under Dr. Oddvar Bendiksen,**“Aeroelastic Effects on Structures”** **2016**
+* **UCLA** Teaching Assistant under Dr. Oddvar Bendiksen, **“Preliminary Aircraft Designs”** **2015**
+* **SDSU** Teaching Assistant under Dr. Luciano Demasi, **“Statics”** **2012**
 
 # Publications 
 1. "A Robust Grid-Based Meshing Algorithm for Embedding Self-Intersecting Surfaces"
