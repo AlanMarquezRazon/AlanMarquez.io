@@ -9,7 +9,6 @@
 # Work Experience 
 
 # Publications 
-
 1. "A Robust Grid-Based Meshing Algorithm for Embedding Self-Intersecting Surfaces"
 ,Steven W. Gagniere, Yushan Han, Yizhou Chen, David A. B. Hyde, Alan
 Marquez-Razon, Joseph Teran, Ronald Fedkiw. Computer Graphics Forum Vol 43
@@ -44,3 +43,7 @@ Alan Marquez Razon, AIAA Journal. [https://doi.org/10.2514/6.2014-1199](https://
 Rauno Cavallaro, Alan Márquez Razón. AIAA journal Vol 51 Issue 1 pages 161-177
 American Institute of Aeronautics and Astronautics [https://doi.org/10.2514/1.J051700](https://doi.org/10.2514/1.J051700)
 2013
+
+## Publications Simulations 
+
+2.[armadillo](./armaldo.mp4)
