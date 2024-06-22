@@ -1,9 +1,10 @@
 # Education 
 ## University of California los Angeles
-Aerospace Engineering, PhD 2021
-Aerospace Engineering, Masters of Science 2015
+**Phd** Aerospace Engineering 2021
+
+**Masters of Science** Aerospace Engineering 2015
 ## San Diego State University
-Aerospace Engineering, Bachelors of Science 2013
+**Bachelors of Science** Aerospace Engineering 2013
 
 # Work Experience 
 
