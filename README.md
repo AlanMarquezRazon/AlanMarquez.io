@@ -49,3 +49,7 @@ American Institute of Aeronautics and Astronautics [https://doi.org/10.2514/1.J0
 1. Elastic volumetric mesh collisions with rigid objects [Armadillo](./armaldo.mp4)
 2. Elastic volumetric mesh self collision via constraints [Body Twist](./twist.mp4)
 3. Surface tension contact angles [Dropplets](./Contact_angles.mp4)
+4. Multi-phase material multi-physics simulation [Candle](./candle_01_sticky_take3.mp4)
+5. Temperature Driven Marangoni Effect [Marangoni](./Marangoni.mp4)
+6. Incompressible fluid with rigid objects [Dam Break](./dambreak_128_final.mp4) [Bunny ](./bunny_drown_0_156.mp4)
+7. Narrowband for multi-method incompressible flow simulations [Narrow Band](./narrow_band_2d.mp4)
