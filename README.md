@@ -27,6 +27,11 @@ Interests
 
 # Skills 
 
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 # Publications 
 1. "A Robust Grid-Based Meshing Algorithm for Embedding Self-Intersecting Surfaces"
 ,Steven W. Gagniere, Yushan Han, Yizhou Chen, David A. B. Hyde, **Alan
