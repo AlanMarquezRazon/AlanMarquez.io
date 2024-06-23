@@ -30,8 +30,9 @@ Numerical methods for engineering problems, Aeroelasticity, Dynamical Analysis, 
 
 |C++|MATLAB|Python|FORTRAN|Rust|Git|
 |Numerical methods for materia simulations|CFD|FEM|MPM|FV|
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Solid Mechanics| Structural Dynamics| Thermal Analysis| Fluid-Structure Interactions| Dynamics Analysis|Reduced Order Modeling|
+| Prototyping | SOLIDWORKS | FEMAP  | Ansys| NASTRAN| Houdini| Adobe|
+|English|Spanish|
 
 # Publications 
 1. "A Robust Grid-Based Meshing Algorithm for Embedding Self-Intersecting Surfaces"
