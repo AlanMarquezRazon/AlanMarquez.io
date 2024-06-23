@@ -25,6 +25,8 @@ Interests
 * **UCLA** Teaching Assistant under Dr. Oddvar Bendiksen, **“Preliminary Aircraft Designs”** **2015**
 * **SDSU** Teaching Assistant under Dr. Luciano Demasi, **“Statics”** **2012**
 
+# Skills 
+
 # Publications 
 1. "A Robust Grid-Based Meshing Algorithm for Embedding Self-Intersecting Surfaces"
 ,Steven W. Gagniere, Yushan Han, Yizhou Chen, David A. B. Hyde, **Alan
