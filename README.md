@@ -28,7 +28,7 @@ Numerical methods for engineering problems, Aeroelasticity, Dynamical Analysis, 
 
 # Skills 
 
-| ok           | good swedish fish | nice  |
+| C++|MATLAB|Python|FORTRAN|Rust|Git|
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
