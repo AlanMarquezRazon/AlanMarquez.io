@@ -4,12 +4,10 @@ Interests
 *** 
 
 # Education 
-## University of California los Angeles
-**Phd** Aerospace Engineering **2021**
+ **University of California los Angeles (UCLA)**, **Phd** Aerospace Engineering **2021**
 
-**Masters of Science** Aerospace Engineering **2015**
-## San Diego State University
-**Bachelors of Science** Aerospace Engineering **2013**
+**UCLA, Masters of Science** Aerospace Engineering **2015**
+**San Diego State University (SDSU)**, **Bachelors of Science** Aerospace Engineering **2013**
 
 # Work Experience 
 * **Post-Doc Researcher** under David Hyde, **Vanderbilt University** Department of Computer Science **2022-2023** Investigation of the use of the material point method (MPM) for sharp interfaces. Expand the utility and applicability of MPM to real-world problems. Physical interfacial problems from physical science and engineering.
