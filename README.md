@@ -7,6 +7,8 @@ Interests
  **University of California los Angeles (UCLA)**, **Phd** Aerospace Engineering **2021**
 
 **UCLA, Masters of Science** Aerospace Engineering **2015**
+
+
 **San Diego State University (SDSU)**, **Bachelors of Science** Aerospace Engineering **2013**
 
 # Work Experience 
