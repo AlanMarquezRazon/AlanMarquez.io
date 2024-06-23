@@ -1,5 +1,6 @@
 # Aerospace Engineer 
-Interests 
+
+Numerical methods for engineering problems, Aeroelasticity, Dynamical Analysis, CFD, Solid and Structure Mechanics
 
 *** 
 
