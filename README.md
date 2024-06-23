@@ -28,8 +28,8 @@ Numerical methods for engineering problems, Aeroelasticity, Dynamical Analysis, 
 
 # Skills 
 
-| C++|MATLAB|Python|FORTRAN|Rust|Git|
-| out of stock | good and plenty   | nice  |
+|C++|MATLAB|Python|FORTRAN|Rust|Git|
+|Numerical methods for materia simulations|CFD|FEM|MPM| |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
