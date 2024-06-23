@@ -12,6 +12,7 @@ Interests
 **Bachelors of Science** Aerospace Engineering **2013**
 
 # Work Experience 
+* **Post-Doc Researcher** under David Hyde, **Vanderbilt University** Department of Computer Science **2022-2023** Investigation of the use of the material point method (MPM) for sharp interfaces. Expand the utility and applicability of MPM to real-world problems. Physical interfacial problems from physical science and engineering. 
 
 # Teaching Experience 
 * **UCLA** Teaching Assistant under Dr. Toohey Damian, **“Flight Mechanics”** **2015 - 2019**
