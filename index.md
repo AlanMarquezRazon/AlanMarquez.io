@@ -13,55 +13,56 @@ Crriculum Vitae
 </a> 
 </p>
 
-<button class="accordion" style="color:black;">About Myself</button>
-<div class="panel" style="color:black;">
-  <p><img src="alan_pic.jpg" alt="alan pic"  width="298" height="200"></p>
-  <p>Interest: Aerospace Engineer
-Numerical methods for engineering problems, Aeroelasticity, Dynamical Analysis, CFD, Solid and Structure Mechanics</p>
-</div>
 
-<button class="accordion">Education</button>
-<div class="panel" style="color:black;">
-  <p> 
-  <h2 style="color:black;" > <b>Education</b></h2>
+
+<details >
+  <summary style="color:black;">About Myself</summary>
+  <p><img src="alan_pic.jpg" alt="alan pic"  width="298" height="200"></p>
+  <p style="color:black;">Interest: Aerospace Engineer
+Numerical methods for engineering problems, Aeroelasticity, Dynamical Analysis, CFD, Solid and Structure Mechanics</p>
+</details>
+
+<details>
+  <summary style="color:black;">Education</summary>
+<h2 style="color:black;" > <b>Education</b></h2>
+<p style="color:black;" >   
  <b>University of California los Angeles (UCLA)</b>, <b>Phd</b> Aerospace Engineering <b>2021</b>
 </p>
-<p> 
+<p style="color:black;" > 
 <b>UCLA, Masters of Science</b> Aerospace Engineering <b>2015</b>
 </p>
-<p> 
+<p style="color:black;" > 
 <b>San Diego State University (SDSU)</b>, <b>Bachelors of Science</b> Aerospace Engineering <b>2013</b>
 </p>
-</div>
+</details>
 
-<button class="accordion">Work Experience </button>
-<div class="panel" style="color:black;">
-  <p>
-<h2 style="color:black;" > <b>Work Experience </b></h2>
 
+<details>
+  <summary style="color:black;">Work Experience</summary>
+<h2 style="color:black;" > <b>Work Experience</b></h2>
+<p style="color:black;" >   
 <b>Post-Doc Researcher</b> under David Hyde, <b>Vanderbilt University</b> Department of Computer Science <b>2022-2023</b> Investigation of the use of the material point method (MPM) for sharp interfaces. Expand the utility and applicability of MPM to real-world problems. Physical interfacial problems from physical science and engineering.</p>
-<p>  <b>Software Engineer</b> under Theodore Gast, <b>Jixie Effects 2022</b> Develop Material Point Method software and material models for multiphysics simulations..</p>
-<p> <b>Graduate Student Researcher</b>under Joseph Teran, <b>UCLA Department of Mathematics 2020-2021</b> Investigation of the use of the material point method (MPM) for fluid-structure simulations. Support of the in house codebase, develop and implement a wide variety of C++ functions including level sets, fast sweeping algorithm, hybrid Lagrangian/Eulerian methods for fluid simulation, surface tension for MPM, conservative transfers for MPM and hybrid method for collisions using finite elements and MPM.</p>
-<p> <b>Graduate Student Researcher</b> under Oddvar Bendiksen (retired) <b>UCLA Department of Mechanical and Aerospace Engineering 2016- 2017</b> Investigation: Aeroelasticity benchmark work for the next generation of high transonic and supersonic aircraft. This included CAD modeling for a wing tunnel model. Validating finite elements to appropriate model the wing tunnel model in the experiment, coding and comparing the data to experimental results..</p>
-<p> <b>Aerospace Engineering Intern</b> under James Lewis <b>California Institute of Technology, Jet Propulsion Laboratory 2015-2016</b> Support the Mars Oxygen IRSU Experiment (MOXIE). Focusing on the flow processes and instrumentation systems. Handled CAD modeling using SOLIDWORKS, equipment maintenance, inventory, and 3D printing of the MOXIE prototype.</p>
-<p> <b>Assistant Researcher</b> under Luciano Demasi <b>SDSU Department of Aerospace Engineering, Laboratory 2011-2013</b>Investigation: Nonlinear Analysis of Prandtl Plane Joined Wings. Finite Element Modeling and Analysis of static nonlinear joined wing configurations. MATLAB coding of a dynamic aeroelastic instability (flutter) solver for non-planar high subsonic flow using the doublet lattice method. Analyzed diverse wing configurations under different flight conditions to obtain the properties desired for given test cases.</p>
-</div>
+<p style="color:black;">  <b>Software Engineer</b> under Theodore Gast, <b>Jixie Effects 2022</b> Develop Material Point Method software and material models for multiphysics simulations..</p>
+<p style="color:black;"> <b>Graduate Student Researcher</b>under Joseph Teran, <b>UCLA Department of Mathematics 2020-2021</b> Investigation of the use of the material point method (MPM) for fluid-structure simulations. Support of the in house codebase, develop and implement a wide variety of C++ functions including level sets, fast sweeping algorithm, hybrid Lagrangian/Eulerian methods for fluid simulation, surface tension for MPM, conservative transfers for MPM and hybrid method for collisions using finite elements and MPM.</p>
+<p style="color:black;"> <b>Graduate Student Researcher</b> under Oddvar Bendiksen (retired) <b>UCLA Department of Mechanical and Aerospace Engineering 2016- 2017</b> Investigation: Aeroelasticity benchmark work for the next generation of high transonic and supersonic aircraft. This included CAD modeling for a wing tunnel model. Validating finite elements to appropriate model the wing tunnel model in the experiment, coding and comparing the data to experimental results..</p>
+<p style="color:black;"> <b>Aerospace Engineering Intern</b> under James Lewis <b>California Institute of Technology, Jet Propulsion Laboratory 2015-2016</b> Support the Mars Oxygen IRSU Experiment (MOXIE). Focusing on the flow processes and instrumentation systems. Handled CAD modeling using SOLIDWORKS, equipment maintenance, inventory, and 3D printing of the MOXIE prototype.</p>
+<p style="color:black;"> <b>Assistant Researcher</b> under Luciano Demasi <b>SDSU Department of Aerospace Engineering, Laboratory 2011-2013</b>Investigation: Nonlinear Analysis of Prandtl Plane Joined Wings. Finite Element Modeling and Analysis of static nonlinear joined wing configurations. MATLAB coding of a dynamic aeroelastic instability (flutter) solver for non-planar high subsonic flow using the doublet lattice method. Analyzed diverse wing configurations under different flight conditions to obtain the properties desired for given test cases.</p>
+</details>
 
-<button class="accordion">Teaching Experience</button>
-<div class="panel" style="color:black;">
-  <p> 
+<details style="color:black;">
+  <summary style="color:black;">Teaching Experience</summary>
   <h2 style="color:black;" > <b>Teaching Experience </b></h2>
+  <p style="color:black;"> 
 
 * **UCLA** Teaching Assistant under Dr. Toohey Damian, **“Flight Mechanics”** **2015 - 2019**
 * **UCLA** Teaching Assistant under Dr. Oddvar Bendiksen,**“Aeroelastic Effects on Structures”** **2016**
 * **UCLA** Teaching Assistant under Dr. Oddvar Bendiksen, **“Preliminary Aircraft Designs”** **2015**
-* **SDSU** Teaching Assistant under Dr. Luciano Demasi, **“Statics”** **2012**
-</p>
-</div>
+* **SDSU** Teaching Assistant under Dr. Luciano Demasi, **“Statics”** **2012**</p>
+</details>
 
-<button class="accordion">Skills</button>
-<div class="panel" style="color:black;">
-  <p> 
+
+<details style="color:black;">
+  <summary>Skills</summary>
   <h2 style="color:black;" > <b>Skills </b></h2>
 
 <table>
@@ -107,12 +108,11 @@ Numerical methods for engineering problems, Aeroelasticity, Dynamical Analysis, 
   </tr>
 </table>
 </p>
-</div>
+</details>
 
-
-<button class="accordion">Publications</button>
-<div class="panel" style="color:black;">
-  <p> 
+<details style="color:black;">
+  <summary>Publications</summary>
+ <p> 
   <h2 style="color:black;" > <b>Publications </b></h2>
 
 <img src="grid.png"  width="500" class="center">
@@ -167,13 +167,11 @@ Rauno Cavallaro, **Alan Márquez Razón**. **AIAA journal** Vol 51 Issue 1 pages
 American Institute of Aeronautics and Astronautics [https://doi.org/10.2514/1.J051700](https://doi.org/10.2514/1.J051700)
 **2013**
 </p>
-</div>
+</details>
 
-</body>
-<button class="accordion">Simulations</button>
-<div class="panel" style="color:black;">
-  <p> 
-  <h2 style="color:black;" > <b>Simulations </b></h2>
+<details style="color:black;">
+  <summary>Simulations</summary>
+  <p><h2 style="color:black;" > <b>Simulations </b></h2>
 
 1. Volumetric Mesh Embedidng for physic based simulations 
 
@@ -283,6 +281,6 @@ American Institute of Aeronautics and Astronautics [https://doi.org/10.2514/1.J0
   Your browser does not support HTML video.
 </video>
 </p>
-</div>
+</details>
 
 </html>
