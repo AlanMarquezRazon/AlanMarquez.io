@@ -1,7 +1,0 @@
-title: Alan Marquez Razon 
-logo: alan_pic.png
-description: ae.alan.marquez@gmail.com
-show_downloads: false
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
