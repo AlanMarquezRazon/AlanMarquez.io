@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Alan Marquez Razon</title>
+    <meta name="description" content="Portfolio" />
+
+    <link rel="stylesheet" href="css/style.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="header">
+      <div class="header__content">
+        <div class="header__logo-container">
+          <div class="header__logo-img-cont">
+            <img
+              src="./assets/png/Alanpic.png"
+              alt=""
+              class="header__logo-img"
+            />
+          </div>
+          <span class="header__logo-sub">Alan Marquez Razon</span>
+        </div>
+        <div class="header__main">
+          <ul class="header__links">
+            <li class="header__link-wrapper">
+              <a href="./index.html" class="header__link"> Home </a>
+            </li>
+            <li class="header__link-wrapper">
+              <a href="./index.html#about" class="header__link">About </a>
+            </li>
+            <li class="header__link-wrapper">
+              <a href="./index.html#projects" class="header__link">
+                Publications/Simulations
+              </a>
+            </li>
+            <li class="header__link-wrapper">
+              <a href="./index.html#contact" class="header__link"> Contact/CV </a>
+            </li>
+          </ul>
+          <div class="header__main-ham-menu-cont">
+            <img
+              src="./assets/svg/ham-menu.svg"
+              alt="hamburger menu"
+              class="header__main-ham-menu"
+            />
+            <img
+              src="./assets/svg/ham-menu-close.svg"
+              alt="hamburger menu close"
+              class="header__main-ham-menu-close d-none"
+            />
+          </div>
+        </div>
+      </div>
+      <div class="header__sm-menu">
+        <div class="header__sm-menu-content">
+          <ul class="header__sm-menu-links">
+            <li class="header__sm-menu-link">
+              <a href="./index.html"> Home </a>
+            </li>
+
+            <li class="header__sm-menu-link">
+              <a href="./index.html#about"> About </a>
+            </li>
+
+            <li class="header__sm-menu-link">
+              <a href="./index.html#projects"> Projects </a>
+            </li>
+
+            <li class="header__sm-menu-link">
+              <a href="./index.html#contact"> Contact </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </header>
+    <section class="home-hero">
+      <div class="home-hero__content">
+        <h1 class="heading-primary">Hi, my name is Alan Marquez Razon</h1>
+        <div class="home-hero__info">
+          <p class="text-primary">
+          PhD. Aerospace Engineering 
+          </p>
+        </div>
+        <div class="home-hero__cta">
+          <a href="./#projects" class="btn btn--bg">Publications/Simulations</a>
+        </div>
+      </div>
+      <div class="home-hero__socials">
+        <div class="home-hero__social">
+          <a href="#" class="home-hero__social-icon-link">
+            <img
+              src="./assets/png/linkedin-ico.png"
+              alt="icon"
+              class="home-hero__social-icon"
+            />
+          </a>
+        </div>
+        <div class="home-hero__social">
+          <a href="#" class="home-hero__social-icon-link">
+            <img
+              src="./assets/png/github-ico.png"
+              alt="icon"
+              class="home-hero__social-icon"
+            />
+          </a>
+        </div>        
+      </div>
+      <div class="home-hero__mouse-scroll-cont">
+        <div class="mouse"></div>
+      </div>
+    </section>
+    <section id="about" class="about sec-pad">
+      <div class="main-container">
+        <h2 class="heading heading-sec heading-sec__mb-med">
+          <span class="heading-sec__main">About Me</span>
+          <span class="heading-sec__sub">
+            I was born in 1990 in Ensenada, Baja California, and became a United States Citizen in 2013.
+            Following a passion for physics and mathematics, I decided to pursue a career in aerospace engineering.
+            In this career path, I strive to surpass myself with each project with an interest in numerical simulations,
+            fluid-structure interactions, aeroelasticity, dynamical analysis, CFD, and solid and structure mechanics.
+          </span>
+        </h2>
+      <div class="about__content-main">
+          <h3 class="about__content-title">Education</h3>
+          <span class="heading-sec__sub">
+          <b>University of California los Angeles (UCLA)</b>, <b>Phd</b> Aerospace Engineering <b>2021</b>
+          <b>UCLA, Masters of Science</b> Aerospace Engineering <b>2015</b>
+          <b>San Diego State University (SDSU)</b>, <b>Bachelors of Science</b> Aerospace Engineering <b>2013</b>
+        </span>
+      </div>      
+      <div class="about__content-main">
+            <h3 class="about__content-title">Work Experience</h3>
+          <span class="heading-sec__sub">
+          <b>Post-Doc Researcher</b> under David Hyde, <b>Vanderbilt University</b> Department of Computer Science <b>2022-2023</b> Investigation of the use of the material point method (MPM) for sharp interfaces. Expand the utility and applicability of MPM to real-world problems. Physical interfacial problems from physical science and engineering.
+          </span>
+          <span class="heading-sec__sub">
+          <b>Software Engineer</b> under Theodore Gast, <b>Jixie Effects 2022</b> Develop Material Point Method software and material models for multiphysics simulations.
+          </span>  
+          <span class="heading-sec__sub">
+          <b>Graduate Student Researcher</b> under Joseph Teran, <b>UCLA Department of Mathematics 2020-2021</b> Investigation of the use of the material point method (MPM) for fluid-structure simulations. Support of the in house codebase, develop and implement a wide variety of C++ functions including level sets, fast sweeping algorithm, hybrid Lagrangian/Eulerian methods for fluid simulation, surface tension for MPM, conservative transfers for MPM and hybrid method for collisions using finite elements and MPM.
+          </span>
+          <span class="heading-sec__sub">
+          <b>Graduate Student Researcher</b> under Oddvar Bendiksen (retired) <b>UCLA Department of Mechanical and Aerospace Engineering 2016- 2017</b> Investigation: Aeroelasticity benchmark work for the next generation of high transonic and supersonic aircraft. This included CAD modeling for a wing tunnel model. Validating finite elements to appropriate model the wing tunnel model in the experiment, coding and comparing the data to experimental results.
+          </span>
+          <span class="heading-sec__sub">
+          <b>Aerospace Engineering Intern</b> under James Lewis <b>California Institute of Technology, Jet Propulsion Laboratory 2015-2016</b> Support the Mars Oxygen IRSU Experiment (MOXIE). Focusing on the flow processes and instrumentation systems. Handled CAD modeling using SOLIDWORKS, equipment maintenance, inventory, and 3D printing of the MOXIE prototype.
+          </span>
+          <span class="heading-sec__sub">
+          <b>Assistant Researcher</b> under Luciano Demasi <b>SDSU Department of Aerospace Engineering, Laboratory 2011-2013</b>Investigation: Nonlinear Analysis of Prandtl Plane Joined Wings. Finite Element Modeling and Analysis of static nonlinear joined wing configurations. MATLAB coding of a dynamic aeroelastic instability (flutter) solver for non-planar high subsonic flow using the doublet lattice method. Analyzed diverse wing configurations under different flight conditions to obtain the properties desired for given test cases.
+          </span>
+      </div>
+
+          <div class="about__content-main">
+          <h3 class="about__content-title">Teaching Experience</h3>
+          <span class="heading-sec__sub">
+          <b> UCLA</b> Teaching Assistant under Dr. Toohey Damian, <b>“Flight Mechanics” 2015 - 2019</b>
+          </span>
+          <span class="heading-sec__sub">
+          <b>UCLA</b> Teaching Assistant under Dr. Oddvar Bendiksen,<b> “Aeroelastic Effects on Structures” 2016</b>
+          </span>
+          <span class="heading-sec__sub">
+          <b>UCLA</b> Teaching Assistant under Dr. Oddvar Bendiksen, <b>“Preliminary Aircraft Designs” 2015</b>
+          </span>
+          <span class="heading-sec__sub">
+          <b>SDSU</b> Teaching Assistant under Dr. Luciano Demasi, <b>“Statics” 2012</b> 
+          </span>
+          </div>
+          <div class="about__content-skills">
+            <h3 class="about__content-title">My Skills</h3>
+            <div class="skills">
+              <div class="skills__skill">C++</div>
+              <div class="skills__skill">MATLAB</div>
+              <div class="skills__skill">Python</div>
+              <div class="skills__skill">React</div>
+              <div class="skills__skill">Rust</div>
+              <div class="skills__skill">GIT</div>
+              <div class="skills__skill">CFD</div>
+              <div class="skills__skill">FEM</div>
+              <div class="skills__skill">MPM</div>
+              <div class="skills__skill">Structural Dynamics</div>
+              <div class="skills__skill">	Fluid-Structure Interactions	</div>
+              <div class="skills__skill">Dynamics Analysis	</div>
+              <div class="skills__skill">Solid Mechanics	</div>
+              <div class="skills__skill">Dynamics Analysis	</div>
+              <div class="skills__skill">Reduced Order Modeling	</div>
+              <div class="skills__skill">Flight Mechanics	</div>
+              <div class="skills__skill">Prototyping	</div>
+              <div class="skills__skill">SOLIDWORKS	</div>
+              <div class="skills__skill">FEMAP	</div>
+              <div class="skills__skill">Ansys	</div>
+              <div class="skills__skill">NASTRAN		</div>
+              <div class="skills__skill">Adobe Photoshop	</div>
+              <div class="skills__skill">Microsoft 365		</div>
+              <div class="skills__skill">Adobe Premiere	</div>
+              <div class="skills__skill">Houdini	</div>
+              <div class="skills__skill">English	</div>
+              <div class="skills__skill">Spanish	</div>
+
+            </div>
+          </div>        
+      </div>
+    </section>
+    <section id="projects" class="projects sec-pad">
+      <div class="main-container">
+        <h2 class="heading heading-sec heading-sec__mb-bg">
+          <span class="heading-sec__main">Publications</span>
+        <span class="heading-sec__sub">
+          <img src="./assets/grid.png" width="500" class="center">
+        </span>
+        <span class="heading-sec__sub">
+            1. "A Robust Grid-Based Meshing Algorithm for Embedding Self-Intersecting Surfaces"
+            ,Steven W. Gagniere, Yushan Han, Yizhou Chen, David A. B. Hyde,
+            <b>
+                Alan
+                Marquez-Razon
+            </b> , Joseph Teran, Ronald Fedkiw. <b> Computer Graphics Forum</b> Vol 43
+            Issue 1 <a href="https://doi.org/10.1111/cgf.14986">https://doi.org/10.1111/cgf.14986</a> <b> 2023</b>
+
+          </span>
+          <span class="heading-sec__sub">
+            <img src="./assets/collision.png" width="500" class="center">
+          </span>
+          <span class="heading-sec__sub">
+          2. “A Linear and Angular Momentum Conserving Hybrid Particle/Grid Iteration for
+          Volumetric Elastic Contact” <b> Alan Marquez Razon</b> , Yizhou Chen, Yushan Han, Steven
+          Gagniere, Michael Tupek, Joseph Teran.
+          <b>
+              Proceedings of the ACM on Computer
+              Graphics and Interactive Techniques
+          </b> Vol 6 Issue 3 Pages 1-25 ACM <a href="https://doi.org/10.1145/3606924">https://doi.org/10.1145/3606924</a>
+          <b> 2023</b>
+        </span>
+        <span class="heading-sec__sub">
+          <img src="./assets/conssurface.png" width="500" class="center">
+        </span>
+        <span class="heading-sec__sub">
+          3. "A Momentum-Conserving Implicit Material Point Method for Surface Energies with
+                    Spatial Gradients", J Chen, V Kala, <b> A Marquez-Razon</b>, E Gueidon, DAB Hyde, J Teran.
+                    <b> ACM Transactions on Graphics (TOG)</b> Vol 40 Issue 4 Pages 1-16 ACM <a href="https://doi.org/10.1145/3450626.3459874">https://doi.org/10.1145/3450626.3459874</a>
+                    <b> 2021</b>
+        </span>
+        <span class="heading-sec__sub">
+          4. “Particle Grid Hybrid Methods for Multi-Material Dynamics” <b> Marquez Razon, Alan</b> .
+                    University of California, Los Angeles ProQuest Dissertations Publishing, <a href="https://escholarship.org/uc/item/4ct3d43f">https://escholarship.org/uc/item/4ct3d43f</a>
+                    <b> 2021</b>
+        </span>
+        <span class="heading-sec__sub">
+          <img src="./assets/surface_metal.png" width="500" class="center">
+        </span>
+        <span class="heading-sec__sub">
+        5. "An implicit updated lagrangian formulation for liquids with large surface energy", David
+        Hyde, Steven Gagniere, <b> Alan Marquez-Razon</b>, Joseph Teran
+        <b>ACM Transactions on Graphics (TOG) </b> 39 (6), 1-13, <a href="https://doi.org/10.1145/3414685.3417845">https://doi.org/10.1145/3414685.3417845</a> <b> 2020</b>
+        </span>
+        
+        <span class="heading-sec__sub">
+          <img src="./assets/fluid.jpeg" width="500" class="center">
+        </span>
+        <span class="heading-sec__sub">
+          6. "A Hybrid Lagrangian/Eulerian Collocated Advection and Projection Method for
+          FluidSimulation”, Steven Gagniere, David Hyde, <b> Alan Marquez-Razon</b> , Chenfanfu
+          Jiang, Ziheng Ge, Xuchen Han, Qi Guo, Joseph Teran,
+          <b>
+              Symposium on Computer
+              Animation (SCA)
+          </b> , <a href="https://doi.org/10.1111/cgf.14096">https://doi.org/10.1111/cgf.14096</a> <b> 2020</b>
+        </span>
+
+        <span class="heading-sec__sub">
+          <img src="./assets/prp.png" width="500" class="center">
+        </span>
+        <span class="heading-sec__sub">
+        7. "Phenomenology of nonlinear aeroelastic responses of highly deformable joined wings",
+          Rauno Cavallaro, Andrea Iannelli, Luciano Demasi and <b> Alan Marquez Razon</b> .
+          <b> Advances in Aircraft and Spacecraft Science, An International Journal.</b> DOI:<a href="https://doi.org/10.12989/aas.2015.2.2.125">https://doi.org/10.12989/aas.2015.2.2.125</a>
+          <b> 2015</b>
+        </span>
+        <span class="heading-sec__sub">
+          8. "Phenomenology of Nonlinear Aeroelastic Responses of Highly Deformable
+          Joined-wings Configurations", Rauno Cavallaro, Andrea Iannelli, Luciano Demasi and
+          <b> Alan Marquez Razon, AIAA Journal</b>. <a href="https://doi.org/10.2514/6.2014-1199">https://doi.org/10.2514/6.2014-1199</a> <b> 2014</b>
+        </span>
+        <span class="heading-sec__sub">
+          9. “Postcritical analysis of PrandtlPlane joined-wing configurations” Luciano Demasi,
+                    Rauno Cavallaro, <b> Alan Márquez Razón</b>. <b>AIAA journal</b> Vol 51 Issue 1 pages 161-177
+                    American Institute of Aeronautics and Astronautics <a href="https://doi.org/10.2514/1.J051700">https://doi.org/10.2514/1.J051700</a>
+                    <b> 2013</b>
+        </span>
+        </h2>
+
+        <h2 class="heading heading-sec heading-sec__mb-bg">
+          <span class="heading-sec__main">Simulations</span>
+        </h2>
+                  
+
+        <div class="projects__content">
+          <div class="projects__row">
+            <div class="projects__row-img-cont">
+              <img
+                src="./assets/jpeg/project-mockup-example.jpeg"
+                alt="Software Screenshot"
+                class="projects__row-img"
+                loading="lazy"
+              />
+            </div>
+            <div class="projects__row-content">
+              <h3 class="projects__row-content-title">Project 1</h3>
+              <p class="projects__row-content-desc">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic
+                facilis tempora, explicabo quae quod deserunt eius sapiente
+                praesentium.
+              </p>
+              <a
+                href="./project-1.html"
+                class="btn btn--med btn--theme dynamicBgClr"
+                target="_blank"
+                >Case Study</a
+              >
+            </div>
+          </div>
+          <div class="projects__row">
+            <div class="projects__row-img-cont">
+              <img
+                src="./assets/jpeg/project-mockup-example.jpeg"
+                alt="Software Screenshot"
+                class="projects__row-img"
+                loading="lazy"
+              />
+            </div>
+            <div class="projects__row-content">
+              <h3 class="projects__row-content-title">Project 2</h3>
+              <p class="projects__row-content-desc">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic
+                facilis tempora, explicabo quae quod deserunt eius sapiente
+                praesentium.
+              </p>
+              <a
+                href="./project-2.html"
+                class="btn btn--med btn--theme dynamicBgClr"
+                target="_blank"
+                >Case Study</a
+              >
+            </div>
+          </div>
+          <div class="projects__row">
+            <div class="projects__row-img-cont">
+              <img
+                src="./assets/jpeg/project-mockup-example.jpeg"
+                alt="Software Screenshot"
+                class="projects__row-img"
+                loading="lazy"
+              />
+            </div>
+            <div class="projects__row-content">
+              <h3 class="projects__row-content-title">Project 3</h3>
+              <p class="projects__row-content-desc">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic
+                facilis tempora, explicabo quae quod deserunt eius sapiente
+                praesentium.
+              </p>
+              <a
+                href="./project-3.html"
+                class="btn btn--med btn--theme dynamicBgClr"
+                target="_blank"
+                >Case Study</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="contact" class="contact sec-pad dynamicBg">
+      <div class="main-container">
+        <h2 class="heading heading-sec heading-sec__mb-med">
+          <span class="heading-sec__main heading-sec__main--lt">Contact/CV</span>
+        </h2>
+        <h4 class="heading heading-sec heading-sec__mb-med">
+          <p class="text-primary">
+            ae.alan.marquez@gmail.com 
+            </p>          
+        </h4>        
+          <span></span>
+          <span class="heading-sec__sub heading-sec__sub--lt">           
+            <a
+            href="./assets/AlanMRCV.pdf"
+            class="btn btn--med btn--theme dynamicBgClr"
+            target="_blank"
+            >Curiculum Vitae</a>
+          </span>
+       
+      </div>
+    </section>
+    <footer class="main-footer">
+      <div class="main-container">
+        <div class="main-footer__upper">
+          <div class="main-footer__row main-footer__row-1">
+            <h2 class="heading heading-sm main-footer__heading-sm">
+              <span>Social</span>
+            </h2>
+            <div class="main-footer__social-cont">
+              <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/alan-marquez-razon-36b261122/">
+                <img
+                  class="main-footer__icon"
+                  src="./assets/png/linkedin-ico.png"
+                  alt="icon"
+                />
+              </a>
+              <a target="_blank" rel="noreferrer" href="https://github.com/AlanMarquezRazon">
+                <img
+                  class="main-footer__icon"
+                  src="./assets/png/github-ico.png"
+                  alt="icon"
+                />
+              </a>
+            </div>
+          </div>
+          <div class="main-footer__row main-footer__row-2">
+            <h4 class="heading heading-sm text-lt">Alan Marquez</h4>
+            <p class="main-footer__short-desc">
+             email: ae.alan.marquez@gmail.com
+            </p>
+          </div>
+        </div>
+
+
+      </div>
+    </footer>
+
+    <script src="./index.js"></script>
+  </body>
+</html>
